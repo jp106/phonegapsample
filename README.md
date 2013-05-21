@@ -1,0 +1,4 @@
+phonegapsample
+==============
+
+wms map service
