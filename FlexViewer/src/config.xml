@@ -67,10 +67,10 @@
                 url="widgets/Print/PrintWidget.swf"/>
          <widget label="Navigation" left="390" top="400"
                 icon="assets/images/i_print.png"
-                url="widgets/Samples/NavigationControls/NavigationControls.swf"/>        
+                url="widgets/Samples/NavigationControls/NavigationControlsWidget.swf"/>        
                 
 
-        <!--config="widgets/Samples/Navigation/Navigationcontrols.xml"
+        <!--
         <widget label="My first widget"
                 icon="assets/images/i_widget.png"
                 config="widgets/Samples/HelloWorld/HelloWorldWidget.xml"
