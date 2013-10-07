@@ -26,10 +26,10 @@
             //this function called when the widget's configuration is loaded
             private function init():void
             {
-                if (configXML) // checking for valid content in the configuration file
-                {
-                    lbl.text = configXML.content || getDefaultString("helloContent");
-                }
+//                if (configXML) // checking for valid content in the configuration file
+//                {
+//                    lbl.text = configXML.content || getDefaultString("helloContent");
+//                }
             }
         ]]>
     </fx:Script>
