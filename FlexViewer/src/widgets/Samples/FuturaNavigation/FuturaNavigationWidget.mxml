@@ -31,7 +31,7 @@
 			import spark.events.IndexChangeEvent;
 			
 			import widgets.Navigation.VerticalButtonBarSkin;
-            //this function called when the widget's configuration is loaded
+            //this function called when the widget's configuration is loaded     
             private function init():void
             {
 //                if (configXML) // checking for valid content in the configuration file

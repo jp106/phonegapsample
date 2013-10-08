@@ -47,7 +47,7 @@
         <widget label="Bookmarks"
             icon="assets/images/i_bookmark.png"
             config="widgets/Bookmark/BookmarkWidget.xml"
-            url="widgets/Bookmark/BookmarkWidget.swf"/>
+            url="widgets/Bookmark/BookmarkWidget.swf"/>                     
         <widget label="Draw"
             icon="assets/images/i_draw2.png"
             config="widgets/Draw/DrawWidget.xml"
@@ -118,7 +118,7 @@
                 icon="assets/images/i_layers.png"
                 config="widgets/LayerList/LayerListWidget.xml"
                 url="widgets/LayerList/LayerListWidget.swf"/>
-            <widget label="Filter by Time"
+            <widget label="Filter by Time"                     
                 icon="assets/images/i_clock.png"
                 config="widgets/Time/TimeWidget_QuakesSince1970.xml"
                 url="widgets/Time/TimeWidget.swf"/>

@@ -12,7 +12,7 @@
     <toolbarmergevisible>false</toolbarmergevisible>
     <toolbarreshapevisible>false</toolbarreshapevisible>   
     <updategeometry>true</updategeometry>
-    <updateattributes>true</updateattributes>    
+    <updateattributes>true</updateattributes>
 </configuration>
 
 <!--
