@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<ListDetails label="SWC Loading Details" projectName="FlexViewer4FuturaOpsDashboard">
+
+
+<LoadedSetList label="LoadedSet List">
+
+
+<LoadingSet label="LoadingSet1:">
+
+
+<item  label="as3xls-1.0.swc992568089" path="/Users/jhansipailla/Desktop/phonegapsample/.metadata/.plugins/com.adobe.flexbuilder.codemodel/SwcCache/as3xls-1.0.swc992568089/library.swf"/>
+
+
+<item  label="fds_rb.swc964295921" path="/Users/jhansipailla/Desktop/phonegapsample/.metadata/.plugins/com.adobe.flexbuilder.codemodel/SwcCache/fds_rb.swc964295921/library.swf"/>
+
+
+<item  label="serializers_rb.swc1920246673" path="/Users/jhansipailla/Desktop/phonegapsample/.metadata/.plugins/com.adobe.flexbuilder.codemodel/SwcCache/serializers_rb.swc1920246673/library.swf"/>
+
+
+<item  label="fiber_rb.swc-981615831" path="/Users/jhansipailla/Desktop/phonegapsample/.metadata/.plugins/com.adobe.flexbuilder.codemodel/SwcCache/fiber_rb.swc-981615831/library.swf"/>
+
+
+<item  label="fds.swc-1608438039" path="/Users/jhansipailla/Desktop/phonegapsample/.metadata/.plugins/com.adobe.flexbuilder.codemodel/SwcCache/fds.swc-1608438039/library.swf"/>
+
+
+<item  label="agslib-3.5-2013-09-19.swc1417865521" path="/Users/jhansipailla/Desktop/phonegapsample/.metadata/.plugins/com.adobe.flexbuilder.codemodel/SwcCache/agslib-3.5-2013-09-19.swc1417865521/library.swf"/>
+
+
+<item  label="flexunit-4.1.0-8-flex_4.1.0.16076.swc-785639279" path="/Users/jhansipailla/Desktop/phonegapsample/.metadata/.plugins/com.adobe.flexbuilder.codemodel/SwcCache/flexunit-4.1.0-8-flex_4.1.0.16076.swc-785639279/library.swf"/>
+
+
+<item  label="hamcrest-as3-flex-1.1.3.swc1521039585" path="/Users/jhansipailla/Desktop/phonegapsample/.metadata/.plugins/com.adobe.flexbuilder.codemodel/SwcCache/hamcrest-as3-flex-1.1.3.swc1521039585/library.swf"/>
+
+
+<item  label="serializers.swc-764867511" path="/Users/jhansipailla/Desktop/phonegapsample/.metadata/.plugins/com.adobe.flexbuilder.codemodel/SwcCache/serializers.swc-764867511/library.swf"/>
+
+
+<item  label="fiber.swc586876817" path="/Users/jhansipailla/Desktop/phonegapsample/.metadata/.plugins/com.adobe.flexbuilder.codemodel/SwcCache/fiber.swc586876817/library.swf"/>
+
+
+<item  label="playerfds.swc349439953" path="/Users/jhansipailla/Desktop/phonegapsample/.metadata/.plugins/com.adobe.flexbuilder.codemodel/SwcCache/playerfds.swc349439953/library.swf"/>
+
+
+<item  label="flexunitextended.swc596817857" path="/Users/jhansipailla/Desktop/phonegapsample/.metadata/.plugins/com.adobe.flexbuilder.codemodel/SwcCache/flexunitextended.swc596817857/library.swf"/>
+
+
+</LoadingSet>
+
+
+</LoadedSetList>
+
+
+<RemovedSetList label="RemovedSet List">
+
+
+<RemovedSet label="RemovedSet1:">
+
+
+<item  label="No Item present in this set"/>
+
+
+</RemovedSet>
+
+
+</RemovedSetList>
+
+
+</ListDetails>
+
+

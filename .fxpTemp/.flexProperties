@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexProperties aspUseIIS="true" enableServiceManager="false" flexServerFeatures="0" flexServerType="32" fmlDataModelLocation=".model/FlexViewer4FuturaOpsDashboard.fml" serverContextRoot="" serverRoot="${ASP_FLEX_SERVER_ROOT}" serverRootURL="http://${ASP_WEB_URI}" toolCompile="true" useServerFlexSDK="false" version="2"/>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;FlexViewer&apos; to &apos;FlexViewer34&apos;" description="Rename resource &apos;FlexViewer&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/FlexViewer" name="FlexViewer34" stamp="1384050771639" updateReferences="true"/>
+</session>
